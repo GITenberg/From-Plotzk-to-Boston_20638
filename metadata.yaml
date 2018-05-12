@@ -1,0 +1,42 @@
+_repo: From-Plotzk-to-Boston_20638
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Antin, Mary
+    alias: Grabau, Mary Antin
+    birthdate: 1881
+    deathdate: 1949
+    gutenberg_agent_id: '9433'
+    url: http://www.gutenberg.org/2009/agents/9433
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Antin
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immigrants -- United States -- Biography'
+- !lcc 'E151'
+- !lcsh 'United States -- Ethnic relations'
+- !lcsh 'Jews -- Poland -- Plock -- Biography'
+- !lcsh 'Jews -- United States -- Biography'
+- !lcsh 'Antin, Mary, 1881-1949'
+title: From Plotzk to Boston
+url: http://www.gutenberg.org/ebooks/20638
